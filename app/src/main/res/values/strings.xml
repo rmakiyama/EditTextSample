@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EditTextSample</string>
+    <string name="edit_text_hint">10文字までです</string>
 </resources>
